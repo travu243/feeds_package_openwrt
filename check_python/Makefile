@@ -1,5 +1,3 @@
-# package/check_python/Makefile
-
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=check_python
